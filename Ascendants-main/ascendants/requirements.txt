@@ -1,0 +1,3 @@
+# No external dependencies yet. Standard library only for now.
+# Add here if/when the controller or perception modules need real
+# audio/image/tool libraries.
